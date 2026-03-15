@@ -14,7 +14,7 @@ The website includes animated visuals, event timeline, themes, prizes, mentors, 
 ![Hero Banner](images/11.png)
 ![Roadmap](images/22.png)
 ![Prize Visual](images/33.png)
-![Hero Banner](images/)44.png
+![Hero Banner](images/44.png)
 ![Roadmap](images/55.png)
 ![Prize Visual](images/66.png)
 ![Prize Visual](images/77.png)
