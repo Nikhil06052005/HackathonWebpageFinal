@@ -11,9 +11,13 @@ The website includes animated visuals, event timeline, themes, prizes, mentors, 
 
 ## Preview
 
-![Hero Banner](images/banner.jpg)
-![Roadmap](images/roadmapnew.jpg)
-![Prize Visual](images/1.png)
+![Hero Banner](images/11.png)
+![Roadmap](images/22.png)
+![Prize Visual](images/33.png)
+![Hero Banner](images/)44.png
+![Roadmap](images/55.png)
+![Prize Visual](images/66.png)
+![Prize Visual](images/77.png)
 
 ## Demo Video
 
